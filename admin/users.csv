@@ -1,0 +1,16 @@
+id,name,surname,email,username,password,rank
+a,Admin,Example,admin@example.co.uk,admin,Pass,Admin
+22022001,Janvi,Sharma,janvi.rs@somaiya.edu,janvi,pass,student
+22022003,Sakshi,Tupkar,sakshi.tupkar@somaiya.edu,sakshi,pass,student
+22022004,Kesha,Zala,kesha.zala@somaiya.edu,kesha,pass,student
+22022002,Saksham,Sapru,saksham.sapru@somaiya.edu,saksham,pass,student
+301,Prof. Pashmi,Kumawat,pashmi.kumawat@somaiya.edu,pashmi,pass,lecturer
+302,Prof. Aarti,Sahitya,aarti.sahitya@somaiya.edu,aarti,pass,lecturer
+303,Prof. Shreya,Patankar,shreya.patankar@somaiya.edu,shreya,pass,lecturer
+304,Prof. Vandana,Salve,vandana.salve@somaiya.edu,vandana,pass,lecturer
+305,Prof. Minal,Sonkar,minal.sonkar@somaiya.edi,minal,pass,lecturer
+22022008,Shardul,Sonak,shardul.sonak@somaiya.edu,shardul,pass,student
+22022009,Harsheet,Trambadia,harsheet.t@somaiya.edu,harsheet,pass,student
+22022005,Harsh,Yadav,harsh.jy@somaiya.edu,harsh,pass,student
+22022007,Sarthak,Tandel,sarthak.tandel@somaiya.edu,sarthak,pass,student
+S33,Prof. Shubhada,Labde,shubhada.labde@somaiya.edu,shubhada,pass,lecturer
